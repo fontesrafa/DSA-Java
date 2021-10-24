@@ -1,4 +1,4 @@
-public class appLinkedList {
+public class AppLinkedList {
 
     public static void main(String[] args) {
 
@@ -26,7 +26,7 @@ public class appLinkedList {
         System.out.println(list);
 
         list.deleteAfter(15);
-        System.out.println("Deleted node after : \n");
+        System.out.println("Deleted node after 15: \n");
         System.out.println(list);
 
         list.deleteFirst();

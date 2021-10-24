@@ -43,6 +43,6 @@ public class Node {
 
     @Override
     public String toString() {
-        return "Node[data: " + getData();
+        return "N[Data = " + getData() + "]";
     }
 }
